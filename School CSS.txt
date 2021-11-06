@@ -1,0 +1,37 @@
+h1{
+    text-align:right;
+    float:right;
+    padding: 0px 50px 75px;
+}
+p
+{
+padding:0px 20px 70px 100px;
+}
+body{
+   background-image:url(https://storage.pixteller.com/designs/designs-images/2019-03-27/05/love-and-passion-background-backgrounds-romantic-1-5c9b9945866ba.png);
+   image-rendering:center ;
+   }
+footer {
+text-align: center;
+padding: 3px;
+background-color: rgb(240, 209, 199);
+color: rgb(7, 5, 5);
+}
+
+.sign {
+border-color: #FFDDA9;
+background-color: transparent;
+border-style: solid;
+border-width: 2px;
+border-radius: 20px;
+padding: 20px;
+}
+div{
+
+background-color: lightgrey;
+width: 300px;
+border: 15px solid green;
+padding: 40px;
+margin: 50px;
+
+}
